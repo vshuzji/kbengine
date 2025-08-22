@@ -5,16 +5,6 @@ KBEngine
 [![Appveyor (Windows) Build  Status](https://ci.appveyor.com/api/projects/status/github/kbengine/kbengine?branch=master&svg=true)](https://ci.appveyor.com/project/kbengine/kbengine/branch/master)
 
 
-## Homepage
-
-	https://kbengine.github.io/
-
-
-## Releases
-
-	Sources		: https://github.com/kbengine/kbengine/releases/latest
-
-
 ## Demo sources
 
 	Unity3d		: https://github.com/kbengine/kbengine_unity3d_demo/releases/latest
