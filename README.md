@@ -60,11 +60,6 @@ KBEngine
 		server_assets
 
 
-## 中文
-
-[官网](https://kbengine.github.io/cn/)，[论坛](https://github.com/kbengine/kbengine/discussions)，QQ交流群：461368412、16535321、716679842
-
-
 
 ## 什么是KBEngine?
 
